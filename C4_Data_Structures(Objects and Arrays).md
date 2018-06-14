@@ -1,6 +1,7 @@
 ## 1. The sum of a range.
 
-```function range(start, end, step = 1) {
+```
+function range(start, end, step = 1) {
 	let array = [];
 	
 	if (step > 0) {
